@@ -1,5 +1,5 @@
 # Telegram To MT4 / MT5
-https://telegramfxcopier.com
+https://telegramfxcopier.io
 
 Don't miss any trading signal from telegram anymore.
 
